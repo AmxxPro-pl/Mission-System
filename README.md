@@ -25,15 +25,14 @@
 ### 📸 ScreenShots
 
 #### 🎮 Powiadomienia i Status (HUD)
-| Status Misji (HUD) | Postęp Misji (DHUD) |
-|:---:|:---:|
-| <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_1.png" width="400"> | <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_4.png" width="400"> |
-| *Screenshot_1: Statustext* | *Screenshot_4: DHUD* |
+| Status Misji (StatusText) | Status Misji (StatusText) | Postęp Misji (DHUD) |
+|:---:|:---:|:---:|
+| <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_1.png" width="400"> | <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_5.png" width="400"> | <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_4.png" width="400"> |
 
 #### 📋 Interfejs Menu
-| Główne Menu Misji | Wybór Aktu | Szczegóły Zadania |
-|:---:|:---:|:---:|
-| <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_2.png" width="250"> | <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_3.png" width="250"> | <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_6.png" width="250"> |
+| Główne Menu Misji | Wybór Aktu | Szczegóły Zadania | Szczegóły zadania z Bronią |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_2.png" width="250"> | <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_3.png" width="250"> | <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_6.png" width="250"> | <img src="https://github.com/AmxxPro-pl/Mission-System/blob/main/assets/Screenshot_7.png" width="250"> |
 
 #### 🏆 Rankingi
 | TOP 15 Najlepszych Graczy (MOTD) |
@@ -62,13 +61,13 @@ Każda linia misji musi zachować poniższy format:
   <summary><b>II. Typy Misji (Core + Addons)</b></summary>
 
 **Core (Typy 1-12):**
-1. Rozegraj X rund | 2. Zabij X osób | 3. Zabij X (HS) | 4. Zadaj X DMG | 6. Paka C4 | 8. Przetrwaj rundę
+1. Rozegraj X rund | 2. Zabij X osób | 3. Zabij X (HS) | 4. Zadaj X DMG | 5. Zadaj x DMG (HS) | 6. Paka C4 | 7. Podnieś Ammo | 8. Przetrwaj rundę etc...
 
 **JailBreak (Typy 13-22):**
-13. Zabij Prowadzących | 15. Zabij Strażników | 21. Ostatni Więzień | 22. Życzenia
+13. Zabij Prowadzących | 14. Zabij Prowadzących HS | 15. Zabij Strażników | ... | 21. Ostatni Więzień | 22. Życzenia
 
 **CoD Mod (Typy 23-25):**
-23. Zabij jako konkretna klasa | 25. Awansuj o X poziomów
+23. Zabij jako konkretna klasa | 24. Zadaj DMG jako konkretna klasa | 25. Awansuj o X poziomów
 </details>
 
 <details>
